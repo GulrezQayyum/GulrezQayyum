@@ -161,7 +161,7 @@ I'm particularly interested in the question:
 <div align="center">
 
 <a href="https://github.com/GulrezQayyum">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-statistics?username=GulrezQayyum&theme=rose_pine" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GulrezQayyum&show_icons=true&theme=rose_pine" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/GulrezQayyum">
