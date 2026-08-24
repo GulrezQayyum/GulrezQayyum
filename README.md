@@ -6,7 +6,7 @@ I build **mobile applications, AI-powered systems, and developer-focused experim
 
 I'm currently studying **Software Engineering** and exploring the intersection of **mobile development, machine learning, and modern AI systems** — especially **RAG, information retrieval, evaluation, and intelligent applications**.
 
-I like taking an idea from **“this would be cool” → working prototype → polished product**.
+I like taking an idea from **"this would be cool" → working prototype → polished product**.
 
 ---
 
@@ -150,21 +150,21 @@ I'm particularly interested in the question:
 
 ## 📊 GitHub Stats
 
-<h2 align="center">📊 GitHub Stats</h2>
-
 <div align="center">
 
 <a href="https://github.com/GulrezQayyum">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=GulrezQayyum&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF2B9D&text_color=00E5C3&icon_color=FF2B9D&ring_color=FF2B9D"
+    src="https://github-readme-stats-git-main-anuraghazras-projects.vercel.app/api?username=GulrezQayyum&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF2B9D&text_color=00E5C3&icon_color=FF2B9D&ring_color=FF2B9D"
     height="180"
+    alt="Gulrez's GitHub Stats"
   />
 </a>
 
 <a href="https://github.com/GulrezQayyum">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulrezQayyum&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF2B9D&text_color=00E5C3"
+    src="https://github-readme-stats-git-main-anuraghazras-projects.vercel.app/api/top-langs/?username=GulrezQayyum&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF2B9D&text_color=00E5C3"
     height="180"
+    alt="Top Languages"
   />
 </a>
 
