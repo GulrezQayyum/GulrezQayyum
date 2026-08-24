@@ -159,19 +159,6 @@ I'm particularly interested in the question:
 
 ---
 
-##  Currently Learning
-
-Deep dive into **RAG systems, retrieval quality, and LLM evaluation**.
-
-**Key resources shaping my work:**
-- [RAG Survey](https://arxiv.org/abs/2312.10997) — Understanding the landscape
-- [RAGAS Framework](https://docs.ragas.io/) — Measuring what matters
-- [LLM-as-Judge](https://arxiv.org/abs/2306.05685) — Evaluation beyond accuracy
-
-**Building projects around these:** RAGBench, PDF RAG Chatbot, ChunkLab
-
----
-
 ##  Let's Connect
 
 <p align="left">
