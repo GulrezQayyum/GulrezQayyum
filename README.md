@@ -150,10 +150,25 @@ I'm particularly interested in the question:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GulrezQayyum&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulrezQayyum&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<a href="https://github.com/GulrezQayyum">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=GulrezQayyum&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF2B9D&text_color=00E5C3&icon_color=FF2B9D&ring_color=FF2B9D"
+    height="180"
+  />
+</a>
+
+<a href="https://github.com/GulrezQayyum">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulrezQayyum&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF2B9D&text_color=00E5C3"
+    height="180"
+  />
+</a>
+
+</div>
 
 ---
 
