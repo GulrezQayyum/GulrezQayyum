@@ -153,19 +153,19 @@ I'm particularly interested in the question:
 <div align="center">
 
 <a href="https://github.com/GulrezQayyum">
-  <img
-    src="https://github-readme-stats-git-main-anuraghazras-projects.vercel.app/api?username=GulrezQayyum&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF2B9D&text_color=00E5C3&icon_color=FF2B9D&ring_color=FF2B9D"
-    height="180"
-    alt="Gulrez's GitHub Stats"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GulrezQayyum&background=0D1117&stroke=FF2B9D&ring=FF2B9D&fire=FF2B9D&currStreakNum=00E5C3&currStreakLabel=00E5C3&sideNums=00E5C3&sideLabels=00E5C3&dates=00E5C3" alt="GitHub Streak Stats" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/GulrezQayyum">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-statistics?username=GulrezQayyum&theme=rose_pine" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/GulrezQayyum">
-  <img
-    src="https://github-readme-stats-git-main-anuraghazras-projects.vercel.app/api/top-langs/?username=GulrezQayyum&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF2B9D&text_color=00E5C3"
-    height="180"
-    alt="Top Languages"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GulrezQayyum&theme=rose_pine" alt="Top Languages" />
 </a>
 
 </div>
