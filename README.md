@@ -1,4 +1,4 @@
-# Hey, I'm Gulrez 👋
+# Hey, I'm Gulrez 
 
 ### Software Engineer · Flutter Developer · AI/ML Builder
 
@@ -10,18 +10,18 @@ I like taking an idea from **"this would be cool" → working prototype → poli
 
 ---
 
-## 🚀 What I'm Working On
+##  What I'm Working On
 
-* 📱 Building production-minded applications with **Flutter & Dart**
-* 🤖 Exploring **Generative AI, RAG, embeddings, and evaluation**
-* 🔎 Experimenting with **retrieval, chunking, query transformation, and hybrid search**
-* 🧠 Building and evaluating **machine learning systems**
-* 🌐 Learning how AI systems can become more reliable, measurable, and useful
-* 🎨 Combining **engineering + product thinking + UI/UX**
+*  Building production-minded applications with **Flutter & Dart**
+*  Exploring **Generative AI, RAG, embeddings, and evaluation**
+*  Experimenting with **retrieval, chunking, query transformation, and hybrid search**
+*  Building and evaluating **machine learning systems**
+*  Learning how AI systems can become more reliable, measurable, and useful
+*  Combining **engineering + product thinking + UI/UX**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Mobile Development
 
@@ -51,9 +51,9 @@ I like taking an idea from **"this would be cool" → working prototype → poli
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-### 🏎️ APEX F1
+###  APEX F1
 
 A neon-themed **Formula 1 race simulation app built with Flutter**.
 
@@ -73,7 +73,7 @@ Features include:
 
 ---
 
-### 🧠 RAGBench
+###  RAGBench
 
 A lightweight evaluation framework for comparing **RAG chunking strategies**.
 
@@ -94,7 +94,7 @@ The goal is simple:
 
 ---
 
-### 🛡️ NetGuard
+###  NetGuard
 
 An AI-powered **network traffic analysis and classification system**.
 
@@ -104,7 +104,7 @@ Built around machine learning for identifying and classifying network traffic, w
 
 ---
 
-### 🔎 PDF RAG Chatbot
+###  PDF RAG Chatbot
 
 A Retrieval-Augmented Generation system for asking questions over PDF documents.
 
@@ -116,7 +116,7 @@ Explores the core RAG pipeline:
 
 ---
 
-### 📱 Flutter Projects
+###  Flutter Projects
 
 A collection of Flutter applications exploring different areas of mobile development — from UI/UX experiments to Firebase/Supabase-backed applications.
 
@@ -124,7 +124,7 @@ A collection of Flutter applications exploring different areas of mobile develop
 
 ---
 
-## 🧪 Currently Exploring
+##  Currently Exploring
 
 ```text
 Retrieval-Augmented Generation
@@ -148,31 +148,7 @@ I'm particularly interested in the question:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/GulrezQayyum">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GulrezQayyum&background=0D1117&stroke=FF2B9D&ring=FF2B9D&fire=FF2B9D&currStreakNum=00E5C3&currStreakLabel=00E5C3&sideNums=00E5C3&sideLabels=00E5C3&dates=00E5C3" alt="GitHub Streak Stats" />
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/GulrezQayyum">
-  <img src="https://github-readme-stats.vercel.app/api?username=GulrezQayyum&show_icons=true&theme=rose_pine" alt="GitHub Stats" />
-</a>
-
-<a href="https://github.com/GulrezQayyum">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GulrezQayyum&theme=rose_pine" alt="Top Languages" />
-</a>
-
-</div>
-
----
-
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <img
@@ -183,19 +159,50 @@ I'm particularly interested in the question:
 
 ---
 
-## 🎯 2026 Goals
-
-* Build more serious **AI/RAG systems**
-* Deepen my understanding of **LLMs and evaluation**
-* Ship polished Flutter applications
-* Contribute to open source
-* Explore **AI alignment and AI safety**
-* Work with people building ambitious products
-* Turn more experiments into real, usable software
+## 📚 Knowledge Roadmap
+ 
+Resources, papers, and articles that shape how I think about building AI systems.
+ 
+### 🧠 **Foundations: LLMs & Embeddings**
+ 
+| Resource | Type | Why It Matters |
+|----------|------|---|
+| [The Attention is All You Need](https://arxiv.org/abs/1706.03762) | Paper | Understanding transformers from first principles |
+| [LLM Reasoning](https://www.anthropic.com/research/many-shot-jailbreaking) | Research | How language models actually work |
+| [Embedding Models & Similarity](https://huggingface.co/spaces/mteb/leaderboard) | Docs | Choosing the right embeddings for retrieval |
+| [Vector Databases 101](https://www.pinecone.io/learn/vector-database/) | Article | Why vectors matter for semantic search |
+ 
+### 🔍 **RAG Engineering: The Core**
+ 
+| Resource | Type | Why It Matters |
+|----------|------|---|
+| [RAG Survey](https://arxiv.org/abs/2312.10997) | Paper | Comprehensive RAG landscape & tradeoffs |
+| [Chunking Strategies](https://www.anthropic.com/research/contextual-retrieval) | Research | Why your chunking strategy matters more than you think |
+| [RAGAS Framework](https://docs.ragas.io/) | Docs | Measuring RAG quality systematically |
+| [LangChain RAG Handbook](https://blog.langchain.dev/retrieval-augmented-generation/) | Article | Practical RAG patterns |
+| [Query Transformation](https://docs.llamaindex.ai/en/stable/module_guides/querying/query_engine/query_transform.html) | Docs | Making queries work harder |
+ 
+### 📊 **Evaluation & Measurement**
+ 
+| Resource | Type | Why It Matters |
+|----------|------|---|
+| [LLM as Judge](https://arxiv.org/abs/2306.05685) | Paper | Evaluating outputs when you don't have ground truth |
+| [Prompt Evals](https://github.com/openai/evals) | Code | Building measurable evaluation pipelines |
+| [RAGAS Metrics Deep Dive](https://docs.ragas.io/en/latest/) | Docs | Going beyond accuracy metrics |
+| [Benchmarking RAG Systems](https://github.com/rag-commons/rag-commons) | Repo | Standardized evaluation approaches |
+ 
+### 🛠️ **Production & Systems**
+ 
+| Resource | Type | Why It Matters |
+|----------|------|---|
+| [FastAPI Handbook](https://fastapi.tiangolo.com/) | Docs | Building reliable API backends |
+| [Production ML Systems](https://www.deeplearningbook.org/) | Book | Thinking like a systems engineer |
+| [Observability in AI Apps](https://www.honeycomb.io/lp/observability-ai/) | Article | Measuring what matters in production |
+| [LLM Ops](https://github.com/weaviate/weaviate) | Tools | Vector DB operations at scale |
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <p align="left">
   <a href="https://github.com/GulrezQayyum">
@@ -208,7 +215,7 @@ I'm particularly interested in the question:
 
 ---
 
-### 💭 A little about me
+###  A little about me
 
 I enjoy building things that sit somewhere between **engineering, AI, and creative product design**.
 
