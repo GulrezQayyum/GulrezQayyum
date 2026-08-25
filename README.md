@@ -148,11 +148,11 @@ I'm particularly interested in the question:
 
 ---
 
-##  Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=GulrezQayyum&bg_color=17131A&color=E7A6C8&title_color=D66AAE&line=A91472&point=F2D8E8&area_color=6D1457&area=true&hide_border=true&radius=12"
+    src="https://github-readme-activity-graph-sage-mu.vercel.app/graph?username=GulrezQayyum&bg_color=0D1117&color=00E5C3&title_color=FF2B9D&line=FF2B9D&point=00E5C3&area=true&hide_border=true&radius=12"
     alt="Gulrez's GitHub Activity Graph"
   />
 </p>
