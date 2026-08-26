@@ -35,28 +35,28 @@ State management · REST APIs · CustomPainter · Animation
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,huggingface" />
 </p>
-`LangChain` · `ChromaDB` · `RAGAS` · `Claude API` · `Groq` · `Embeddings` · `Vector Search` · `Query Transformation` · `Semantic Chunking` · `LLM-as-Judge`
+LangChain · ChromaDB · RAGAS  · Groq · Embeddings · Vector Search · Query Transformation · Semantic Chunking · LLM-as-Judge
  
 ### Machine Learning & Data
  
 <p>
   <img src="https://skillicons.dev/icons?i=python,sklearn" />
 </p>
-`Pandas` · `NumPy` · `Random Forest` · `Classification` · `Network Analysis` (Scapy)
+Pandas · NumPy · Random Forest · Classification · Network Analysis (Scapy)
  
 ### Backend & Infrastructure
  
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,postgresql,mongodb" />
 </p>
-`Docker` · `API Design` · `Database Optimization`
+Docker · API Design · Database Optimization
  
 ### Development & Tools
  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-`Jupyter` · `Pytest` · `Postman` · `Git Workflow`
+Jupyter · Pytest · Postman · Git Workflow
 
 ---
 
