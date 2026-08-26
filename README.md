@@ -22,32 +22,41 @@ I like taking an idea from **"this would be cool" → working prototype → poli
 ---
 
 ##  Tech Stack
-
-### Mobile Development
-
+ 
+### Mobile & Frontend
+ 
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase" />
 </p>
-
-### AI / Machine Learning
-
+State management · REST APIs · CustomPainter · Animation
+ 
+### AI / RAG Engineering
+ 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,huggingface" />
 </p>
-
-`RAG` · `LLMs` · `Embeddings` · `Vector Search` · `ChromaDB` · `RAGAS` · `NLP`
-
-### Backend & Data
-
+`LangChain` · `ChromaDB` · `RAGAS` · `Claude API` · `Groq` · `Embeddings` · `Vector Search` · `Query Transformation` · `Semantic Chunking` · `LLM-as-Judge`
+ 
+### Machine Learning & Data
+ 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn" />
+</p>
+`Pandas` · `NumPy` · `Random Forest` · `Classification` · `Network Analysis` (Scapy)
+ 
+### Backend & Infrastructure
+ 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,postgresql,mongodb" />
 </p>
-
-### Tools
-
+`Docker` · `API Design` · `Database Optimization`
+ 
+### Development & Tools
+ 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
+`Jupyter` · `Pytest` · `Postman` · `Git Workflow`
 
 ---
 
