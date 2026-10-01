@@ -161,7 +161,7 @@ I'm particularly interested in the question:
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph-sage-mu.vercel.app/graph?username=GulrezQayyum&bg_color=0D1117&color=00E5C3&title_color=FF2B9D&line=FF2B9D&point=00E5C3&area=true&hide_border=true&radius=12"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=GulrezQayyum&bg_color=0D1117&color=00E5C3&title_color=FF2B9D&line=FF2B9D&point=00E5C3&area=true&hide_border=true&radius=12"
     alt="Gulrez's GitHub Activity Graph"
   />
 </p>
