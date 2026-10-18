@@ -1,180 +1,56 @@
-# Hey, I'm Gulrez 
+# Hi, I'm Gulrez
 
-### Software Engineer · Flutter Developer · AI/ML Builder
+**Software engineer working on mobile apps, LLM systems, and applied ML research.**
+Final-year Software Engineering student, based in Pakistan, open to remote work.
 
-I build **mobile applications, AI-powered systems, and developer-focused experiments**.
-
-I'm currently studying **Software Engineering** and exploring the intersection of **mobile development, machine learning, and modern AI systems** — especially **RAG, information retrieval, evaluation, and intelligent applications**.
-
-I like taking an idea from **"this would be cool" → working prototype → polished product**.
+I build AI systems and then try to measure whether they actually work. My focus is on retrieval, agents, and evaluation, and I work in Flutter and Python.
 
 ---
 
-##  What I'm Working On
+## What I work on
 
-*  Building production-minded applications with **Flutter & Dart**
-*  Exploring **Generative AI, RAG, embeddings, and evaluation**
-*  Experimenting with **retrieval, chunking, query transformation, and hybrid search**
-*  Building and evaluating **machine learning systems**
-*  Learning how AI systems can become more reliable, measurable, and useful
-*  Combining **engineering + product thinking + UI/UX**
+**Reliable LLM systems:** retrieval, chunking, hybrid search, knowledge graphs, and multi-agent workflows, with evaluation built in from the start rather than added at the end.
 
----
+**Scientific and applied ML:** I'm interested in using ML and LLM agents on scientific problems, and I'm working toward contributing to open-source research projects in this area.
 
-##  Tech Stack
- 
-### Mobile & Frontend
- 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase" />
-</p>
-State management · REST APIs · CustomPainter · Animation
- 
-### AI / RAG Engineering
- 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,huggingface" />
-</p>
-LangChain · ChromaDB · RAGAS  · Groq · Embeddings · Vector Search · Query Transformation · Semantic Chunking · LLM-as-Judge
- 
-### Machine Learning & Data
- 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn" />
-</p>
-Pandas · NumPy · Random Forest · Classification · Network Analysis (Scapy)
- 
-### Backend & Infrastructure
- 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgresql,mongodb" />
-</p>
-Docker · API Design · Database Optimization
- 
-### Development & Tools
- 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-Jupyter · Pytest · Postman · Git Workflow
+**Mobile engineering:** production-minded Flutter apps with clean architecture, state management, and Firebase or Supabase backends.
 
 ---
 
-##  Featured Projects
+## How I work
 
-###  APEX F1
-
-A neon-themed **Formula 1 race simulation app built with Flutter**.
-
-Features include:
-
-* Lap-by-lap race simulation
-* 20-driver race grid
-* Safety car system
-* Weather changes
-* Tyre degradation
-* Pit strategies
-* Qualifying sessions
-* Championship standings
-* Real circuit visualization
-
-**Flutter · Dart · CustomPainter · Animation**
+- **Measure before claiming.** I compare designs with benchmarks and LLM-as-judge or RAGAS evaluations instead of relying on intuition.
+- **Build in the open.** Experiments, failures, and write-ups go in public repos and on [Dev.to](https://dev.to/gulrez) and [Medium](https://medium.com/@gulrezqayyum).
+- **Reproducible by default.** Clear READMEs, pinned dependencies, and tests wherever the result matters.
+- **Learn by building.** I understand things properly once I've implemented them.
 
 ---
 
-###  RAGBench
+## Open source and research
 
-A lightweight evaluation framework for comparing **RAG chunking strategies**.
+I'm looking to contribute to open-source projects in LLM tooling, agentic systems, and scientific ML, and to take on research-style work where the question matters more than the demo.
 
-Currently focused on evaluating:
-
-* Semantic chunking
-* Parent-child chunking
-* Retrieval quality
-* Answer quality
-* RAGAS-based evaluation
-* LLM-as-a-judge workflows
-
-The goal is simple:
-
-> **Measure which RAG design actually works better instead of guessing.**
-
-**Python · RAGAS · ChromaDB · Embeddings · Groq · LLM Evaluation**
+If you maintain something in this space and have a good-first-issue or a research question that needs another pair of hands, I'd like to hear from you.
 
 ---
 
-###  NetGuard
+## Stack
 
-An AI-powered **network traffic analysis and classification system**.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-Built around machine learning for identifying and classifying network traffic, with an emphasis on turning raw network activity into useful security insights.
-
-**Python · Scapy · Random Forest · FastAPI · Machine Learning**
-
----
-
-###  PDF RAG Chatbot
-
-A Retrieval-Augmented Generation system for asking questions over PDF documents.
-
-Explores the core RAG pipeline:
-
-`Documents → Chunking → Embeddings → Vector Search → Retrieval → LLM`
-
-**Python · RAG · Embeddings · Vector Databases · LLMs**
+LangChain · LangGraph · ChromaDB · RAGAS · Groq · scikit-learn · Pandas · NumPy
 
 ---
 
-###  Flutter Projects
+## Reach me
 
-A collection of Flutter applications exploring different areas of mobile development — from UI/UX experiments to Firebase/Supabase-backed applications.
+[LinkedIn](https://www.linkedin.com/in/gulrez-qayyum-999345322/) · [Dev.to](https://dev.to/gulrez) · [Medium](https://medium.com/@gulrezqayyum)
 
-**Flutter · Dart · Firebase · Supabase · REST APIs**
-
----
-
-##  Currently Exploring
-
-```text
-Retrieval-Augmented Generation
-        ↓
-Query Transformation
-        ↓
-Hybrid Search
-        ↓
-Chunking Strategies
-        ↓
-Embedding Models
-        ↓
-RAG Evaluation
-        ↓
-Reliable AI Systems
-```
-
-I'm particularly interested in the question:
-
-> **How do we build AI systems that we can actually measure, debug, and improve?**
-
----
-
-##  Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/gulrez-qayyum-999345322/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-###  A little about me
-
-I enjoy building things that sit somewhere between **engineering, AI, and creative product design**.
-
-When I'm not coding, you'll probably find me exploring **history, geography, design, or some unnecessarily ambitious side project**.
-
----
-
-<p align="center">
-  <i>Build. Break. Learn. Build again.</i>
-</p>
+*Outside work: history, geography, and design.*
