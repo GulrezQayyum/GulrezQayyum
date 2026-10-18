@@ -20,7 +20,7 @@ I build AI systems and then try to measure whether they actually work. My focus 
 ## How I work
 
 - **Measure before claiming.** I compare designs with benchmarks and LLM-as-judge or RAGAS evaluations instead of relying on intuition.
-- **Build in the open.** Experiments, failures, and write-ups go in public repos and on [Dev.to](https://dev.to/gulrez) and [Medium](https://medium.com/@gulrezqayyum).
+- **Build in the open.** Experiments, failures, and write-ups go in public repos and on [Medium](https://medium.com/@gulrezqayyum).
 - **Reproducible by default.** Clear READMEs, pinned dependencies, and tests wherever the result matters.
 - **Learn by building.** I understand things properly once I've implemented them.
 
