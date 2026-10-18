@@ -40,6 +40,7 @@ If you maintain something in this space and have a good-first-issue or a researc
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
@@ -51,6 +52,6 @@ LangChain · LangGraph · ChromaDB · RAGAS · Groq · scikit-learn · Pandas ·
 
 ## Reach me
 
-[LinkedIn](https://www.linkedin.com/in/gulrez-qayyum-999345322/) · [Dev.to](https://dev.to/gulrez) · [Medium](https://medium.com/@gulrezqayyum)
+[LinkedIn](https://www.linkedin.com/in/gulrez-qayyum-999345322/)
 
-*Outside work: history, geography, and design.*
+*Outside work: history, geography, and [writing about the threads connecting places and cultures](https://substack.com/@gulrezqayyum).*
